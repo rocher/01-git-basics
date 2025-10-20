@@ -7,8 +7,10 @@ arreglar-ho.
 
 > ### _Think twice before press Return_
 >
-> Pots usar la branca `feedback` per demanar ajut i fer alguna pregunta.
-> **_No tanquis cap Issue ni facis cap merge a la branca `feedback`_**.
+> Pots usar el _pull request_ `Feedback` (ja està creat) per demanar ajut i
+> fer alguna pregunta en els comentaris. **_No el tanquis ni facis cap merge
+> amb ell_**. Si menciones a algú directament amb `@`, per exemple `@rocher`,
+> llavors li arriba un email amb el missatge.
 >
 > Recorda que qualsevol comanda de git sempre té una petita ajuda disponible
 > amb l'opció `-h`. Per exemple:
