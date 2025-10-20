@@ -1,10 +1,15 @@
-# Introducció a Git - 01
+# Introducció a Git - 01 Git Basics
 
 Repositori d'exercicis de git. Segueix les instruccions i resold els exercicis
 proposats. Llegeix atentament les instruccions i procura no entrar en cap
-estat _estrany_ del git que requereixi d'alguna màgia per arreglar-ho.
+estat _estrany_ del git que requereixi de cap **_màgia arcana_** per
+arreglar-ho.
 
-##### _Think twice before press Enter_
+> ### _Think twice before press Return_
+>
+> Pots usar la branca `feedback` per demanar ajut i fer alguna pregunta.
+>
+> **_No tanquis cap Issue ni facis cap merge a la branca `feedback`_**.
 
 ## Exercici 1
 
@@ -18,6 +23,7 @@ estat _estrany_ del git que requereixi d'alguna màgia per arreglar-ho.
     </body>
 </html>
 ```
+
   - Un cop copiat, esborra el codi html d'aquest fitxer, `README.md`, de forma
     que aquest punt quedi junt al punt anterior (sense cap línia en blanc entre
     ambdós).
@@ -66,7 +72,8 @@ estat _estrany_ del git que requereixi d'alguna màgia per arreglar-ho.
 
   - Crea un fitxer amb el log de totes les comandes `git` que has usat en el
     repositori local. Fes-ho amb la comanda `history | grep git > git.log`.
-    Fes el commit i el push del fitxer `git.log` a la branca principal.
+    Fes el commit i el push del fitxer `git.log` a la branca principal. El
+    missatge del commit ha de ser 'New git log'
 
 ## Exercici 6
 
