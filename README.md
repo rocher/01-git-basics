@@ -102,7 +102,7 @@ pre {
 
 ## Exercici 8
 
-  - En el fitxer `exe1.html`, just a sota de `<h1>Exercici </h1>`, inserta el
+  - En el fitxer `exe1.html`, just a sota de `<h1>Exercici 1</h1>`, inserta el
     fitxer `git.log` entre `<pre>` i `</pre>` amb les següents comandes:
 
 ```bash
