@@ -83,8 +83,8 @@ pre {
   - Esborra els codi css d'aquest fitxer, `README.md`, de forma que aquest
     punt estigui a continuació de l'anterior. Fes el commit i el push del
     `README.md` a la branca principal. Missatge: 'No README'.
-  - Fes el commit i el push del fitxer d'estil a la branca web. El missatge de
-    commit ha de ser 'Nou css'.
+  - Fes el commit i el push del fitxer d'estil a la branca `web`. El missatge
+    de commit ha de ser 'Nou css'.
 
 ## Exercici 7
 
