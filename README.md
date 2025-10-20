@@ -8,8 +8,19 @@ arreglar-ho.
 > ### _Think twice before press Return_
 >
 > Pots usar la branca `feedback` per demanar ajut i fer alguna pregunta.
->
 > **_No tanquis cap Issue ni facis cap merge a la branca `feedback`_**.
+>
+> Recorda que qualsevol comanda de git sempre té una petita ajuda disponible
+> amb l'opció `-h`. Per exemple:
+> ```bash
+>     git commit -h
+>     git push -h
+> ```
+> Si uses l'opció `--help` llavors accediràs a la pàgina de manual. Per
+> exemple:
+> ```bash
+>     git add --help
+> ```
 
 ## Exercici 1
 
@@ -89,7 +100,7 @@ pre {
 
   - Esborra els codi css d'aquest fitxer, `README.md`, de forma que aquest
     punt estigui a continuació de l'anterior. Fes el commit i el push del
-    `README.md` a la branca principal. Missatge: 'No README'.
+    `README.md` a la branca principal. Missatge: 'README Only'.
   - Fes el commit i el push del fitxer d'estil a la branca `web`. El missatge
     de commit ha de ser 'Nou css'.
 
@@ -125,3 +136,10 @@ pre {
   - Esborra el codi `bash` anterior d'aquest fitxer, `README.md`, de forma que
     no hi hagi línies en blanc entre els punts. Fes el commit i el push
     d'aquests canvis a la branca principal. Missatge: 'No bash'.
+
+## Exercici 9
+
+  - Posa el tag `v0.1` a la branca `web`, en el darrer commit, amb el missatge
+    `first web version`. Fes el push del tag.
+  - Posa el tag `v0.1` a la branca principal, en el commit que té el missatge
+    'Only README'. Fes el push del tag.
