@@ -98,7 +98,7 @@ pre {
   - Esborra aquest codi html d'aquest fitxer, `README.md`, i fes el commit i
     el push a la branca principal. Missatge: 'HTML done'.
   - Fes el commit i el push dels fitxers `exe1.html` i `exe2.html` a la branca
-    web amb el missatge 'More css'.
+    `web` amb el missatge 'More css'.
 
 ## Exercici 8
 
